@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "Script for test of devy_for_ubuntu"
+read -n1 -p "Do you want to start te test? [y,n]:" doit 
+case $doit in  
+  y|Y)  echo "\n"
+	  ./devy_for_ubuntu <<<'2 4';; 
+  n|N) echo bye;; 
+  *) echo dont know ;; 
+esac
