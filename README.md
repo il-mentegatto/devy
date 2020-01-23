@@ -25,7 +25,7 @@ For testing the program there is the test_script that start Devy with a simple i
 ### Break down into end to end tests
 
 Actually there isn't particulary test for Devy, but in future I'll add them.
-[Explain what these tests test and why]
+<!--Explain what these tests test and why]
 
 ```
 Give an example
@@ -52,7 +52,7 @@ Add additional notes about how to deploy this on a live system]
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
->
+-->
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/il-mentegatto/devy/tags). 
@@ -67,9 +67,9 @@ See also the list of [contributors](https://github.com/il-mentegatto/devy/contri
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-<## Acknowledgments
+<!--## Acknowledgments
 
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
->
+-->
